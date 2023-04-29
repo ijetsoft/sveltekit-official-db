@@ -26,7 +26,7 @@
 	<h1>
 		SvelteKit-приложение, <br>
 		использующее DBaaS <b>Supabase</b> и<br>
-		хостящееся на <b>Netlify</b>
+		на хостинге на <b>Netlify</b>
 	</h1>
 
 	<Counter />
